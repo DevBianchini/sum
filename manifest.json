@@ -1,7 +1,7 @@
 {
     "name": "SUM",
     "shot_name": "SUM",
-    "start_url": "/sum",
+    "start_url": "/",
     "display": "standalone",
     "theme_color": "#333",
     "background_color": "#333",
